@@ -18,7 +18,7 @@ Experiência prática em desenvolvimento, suporte técnico e análise de TI, cri
 ## 🚀 Stack principal
 
 ### Back-end
-PHP • Laravel • Node.js
+PHP • Laravel • Node.js • Python
 
 ### Front-end
 React • Vue • JavaScript • Livewire • HTML5 • CSS3
