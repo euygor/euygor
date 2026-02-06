@@ -1,17 +1,71 @@
-<h3 align="center"># Formado em Análise e Desenvolvimento de Sistemas :man_technologist: </h3> 
-<h5><p align="center">Você é o visitante número: <img align="center" src="https://profile-counter.glitch.me/euygor/count.svg"</p></h5>
-<!--
-### Hi there 👋
-**euygor/euygor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ygor Oliveira
 
-Here are some ideas to get you started:
+Desenvolvedor de Software focado em sistemas web, APIs e automações.  
+Experiência prática em desenvolvimento, suporte técnico e análise de TI, criando soluções eficientes para problemas reais e conectando tecnologia, negócio e usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Especialidades
+
+- Desenvolvimento de sistemas web
+- Criação e integração de APIs
+- Automações e otimização de processos
+- Suporte técnico e análise de sistemas
+- Levantamento de requisitos e solução de problemas
+
+---
+
+## 🚀 Stack principal
+
+### Back-end
+PHP • Laravel • Node.js
+
+### Front-end
+React • Vue • JavaScript • Livewire • HTML5 • CSS3
+
+### Mobile
+React Native • Expo
+
+### Banco de dados
+MySQL • Oracle
+
+### Ferramentas
+Git • GitHub
+
+---
+
+## 💼 Experiência
+
+Atuação como desenvolvedor full stack e analista de TI, participando de:
+
+- Desenvolvimento e manutenção de sistemas web
+- Projetos em PHP/Laravel, Node e front-end moderno
+- Suporte técnico e melhoria contínua de sistemas
+- Atendimento a clientes e levantamento de requisitos
+- Entrega ponta a ponta: análise → desenvolvimento → deploy
+
+---
+
+## 📌 Projetos em destaque
+
+Em construção...
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=euygor&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euygor&layout=compact&hide_border=true)
+
+---
+
+## 🌐 Contato
+
+**LinkedIn**  
+https://www.linkedin.com/in/euygor  
+
+**Portfólio**  
+https://www.euygor.com  
+
+**E-mail**  
+ygor.oliveiragb@gmail.com
